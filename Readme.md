@@ -6,3 +6,4 @@ Seguindo as instruções do curso da udemy.
 
 Aprendendo sobre git 
 
+Adicionando as informações no repositório remoto
